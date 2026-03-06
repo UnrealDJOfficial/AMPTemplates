@@ -4,7 +4,7 @@
         "UpdateSourcePlatform": "Windows",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "3052620",
-        "UpdateSourceArgs": "2778610",
+        "UpdateSourceArgs": "3052620",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Windows",
