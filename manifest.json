@@ -1,9 +1,10 @@
 {
-	"id": "ec280171-c67f-4cD8-922f-dc24fea91ee1",
-	"authors": ["UnrealDJ", "AMP Community"],
-	"origin": "https://github.com/UnrealDJOfficial/AMPTemplates.git",
-	"url": "https://github.com/UnrealDJOfficial/AMPTemplates",
-	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+    "id": "5e321cd3-8496-45da-938f-d890902e7484",
+    "authors": [
+        "UnrealDJ - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/UnrealDJ - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/UnrealDJ - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "UnrealDJ - Made with AMP Config Generator"
 }
